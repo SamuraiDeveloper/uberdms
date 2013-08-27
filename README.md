@@ -9,7 +9,7 @@ There are a number of methods to do this, including just using the [shortcode](h
 Installation
 ------------
 
-You can simply zip all the files from this repo into ubermenu.zip and upload that int he normal way. It is packed as a [WordPress](http://www.wordpress.org) plugin.
+You can simply zip all the files from this repo into uberdms.zip and upload that int he normal way. It is packed as a [WordPress](http://www.wordpress.org) plugin.
 
 
 Next Steps
