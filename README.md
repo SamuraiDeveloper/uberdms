@@ -6,6 +6,12 @@ UberDMS is a simple section to allow the placement of [Ubermenu](http://sevenspa
 There are a number of methods to do this, including just using the [shortcode](http://codex.wordpress.org/Shortcode) within a text section. However it seemed natural to have a "first class" citizen section to handle this. The code itself is very inspired by [the section code provided by Sevenspark themselves](http://sevenspark.com/docs/ubermenu-pagelines-dms).
 
 
+Installation
+------------
+
+You can simply zip all the files from this repo into ubermenu.zip and upload that int he normal way. It is packed as a [WordPress](http://www.wordpress.org) plugin.
+
+
 Next Steps
 ----------
 
