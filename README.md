@@ -12,5 +12,4 @@ Next Steps
 This is an open source project using the [Apache 2.0 License ](http://opensource.org/licenses/Apache-2.0) so feel free to contribute! There are a number of nice options to be added that could really enhance the experience.
 
 
-Ken
-[Samurai Developer](http://www.samuraideveloper.com)
+Ken ( [Samurai Developer](http://www.samuraideveloper.com) )
