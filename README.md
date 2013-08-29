@@ -9,7 +9,14 @@ There are a number of methods to do this, including just using the [shortcode](h
 Installation
 ------------
 
-You can simply zip all the files from this repo into uberdms.zip and upload that int he normal way. It is packed as a [WordPress](http://www.wordpress.org) plugin.
+Genrally speaking, you want to grab the [RELEASE](https://github.com/SamuraiDeveloper/uberdms/tree/RELEASE) code if you are an end user.
+
+
+### Simple RELEASE Installation
+
+* [download the release ZIP](https://github.com/SamuraiDeveloper/uberdms/archive/RELEASE.zip)
+* rename the file to "uberdms.zip" from "uberdms-RELEASE.zip"
+* upload and install to [WordPress](http://www.wordpress.org) like any other plugin
 
 
 Next Steps
