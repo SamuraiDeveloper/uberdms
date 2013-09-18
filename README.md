@@ -1,7 +1,9 @@
 NOTICE
 =======
 
-THIS CODE IS NO LONGER BEING MAINTAINED AT THIS REPOSITORY. IT WILL BE REMOVED ENTIRELY SOON WHEN THE SECTION IS MADE FREELY AVAILABLE THROUGH OTHER MEANS.
+THIS CODE IS NOW OBSOLETE.
+
+SevenSpark has made an [official DMS section](http://www.pagelines.com/shop/sections/ubermenu-adapter/) available. I suggect you use that.
 
 
 
